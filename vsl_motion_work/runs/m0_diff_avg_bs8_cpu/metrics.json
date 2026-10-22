@@ -1,0 +1,36 @@
+{
+  "val": {
+    "top1": 0.9012987012987013,
+    "macro_f1": 0.8106630869130869,
+    "macro_precision": 0.8143611111111112,
+    "macro_recall": 0.825595238095238
+  },
+  "test": {
+    "top1": 0.9356435643564357,
+    "macro_f1": 0.8372022714127977,
+    "macro_precision": 0.8355465367965368,
+    "macro_recall": 0.8495238095238095
+  },
+  "model_ms_per_clip": 136.61999997566454,
+  "device": "CPU",
+  "config": {
+    "csv": "d:\\DAT301m\\dataset\\vsl_motion_work\\splits.csv",
+    "data_root": "D:\\DAT301m\\dataset\\data",
+    "motion_root": "d:\\DAT301m\\dataset\\vsl_motion_work\\motion",
+    "out": "d:\\DAT301m\\dataset\\vsl_motion_work\\runs\\m0_diff_avg",
+    "mode": "diff",
+    "backbone": "mobilenetv2",
+    "temporal": "avg",
+    "T": 16,
+    "size": 224,
+    "bs": 8,
+    "warmup_epochs": 3,
+    "epochs": 30,
+    "lr": 0.0001,
+    "patience": 8,
+    "seed": 42,
+    "mixed_precision": true,
+    "no_pretrained": false,
+    "eval_only": false
+  }
+}

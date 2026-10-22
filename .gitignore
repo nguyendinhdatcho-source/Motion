@@ -1,0 +1,12 @@
+# Dữ liệu gốc và chuyển động tiền tính (~2,7 GB) – không đưa lên git
+data/
+vsl_motion_work/motion/
+vsl_motion_work/splits.windows.bak.csv
+
+# Trọng số mô hình: chỉ giữ m0 (dùng cho demo)
+*.h5
+!vsl_motion_work/runs/m0_diff_avg/best.weights.h5
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/

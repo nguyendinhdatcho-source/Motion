@@ -1,0 +1,38 @@
+{
+  "val": {
+    "top1": 0.9116883116883117,
+    "macro_f1": 0.8211968440056677,
+    "macro_precision": 0.8232301587301588,
+    "macro_recall": 0.8338571428571429
+  },
+  "test": {
+    "top1": 0.9405940594059405,
+    "macro_f1": 0.8622281607281608,
+    "macro_precision": 0.8653452380952382,
+    "macro_recall": 0.8693809523809523
+  },
+  "model_ms_per_clip": 88.67191250101314,
+  "device": "GPU",
+  "config": {
+    "csv": "/kaggle/working/vsl_motion_work/splits.csv",
+    "data_root": "/kaggle/input/datasets/gipphmtha/data-vsl/data",
+    "motion_root": "/kaggle/working/vsl_motion_work/motion",
+    "out": "/kaggle/working/vsl_motion_work/runs/m0_diff_avg",
+    "mode": "diff",
+    "backbone": "mobilenetv2",
+    "temporal": "avg",
+    "T": 16,
+    "size": 224,
+    "bs": 4,
+    "warmup_epochs": 3,
+    "epochs": 30,
+    "lr": 0.0001,
+    "patience": 8,
+    "seed": 42,
+    "mixed_precision": true,
+    "no_pretrained": false,
+    "eval_only": false,
+    "deadline": 1792633127.0,
+    "stopped_by_deadline": false
+  }
+}

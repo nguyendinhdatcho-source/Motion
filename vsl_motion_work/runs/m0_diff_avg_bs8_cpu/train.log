@@ -1,0 +1,165 @@
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1792512292.484224   18656 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1792512297.905099   18656 port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+GPU: 0  (đang chạy trên CPU, sẽ rất chậm)
+Số lớp: 100 (theo d:\DAT301m\dataset\vsl_motion_work\splits_classes.json)
+train 3077 | val 385
+Downloading data from https://storage.googleapis.com/tensorflow/keras-applications/mobilenet_v2/mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_224_no_top.h5
+
+[1m      0/9406464[0m [37m━━━━━━━━━━━━━━━━━━━━[0m [1m0s[0m 0s/step
+[1m  49152/9406464[0m [37m━━━━━━━━━━━━━━━━━━━━[0m [1m9s[0m 1us/step
+[1m 196608/9406464[0m [37m━━━━━━━━━━━━━━━━━━━━[0m [1m5s[0m 1us/step
+[1m 688128/9406464[0m [32m━[0m[37m━━━━━━━━━━━━━━━━━━━[0m [1m2s[0m 0us/step
+[1m1294336/9406464[0m [32m━━[0m[37m━━━━━━━━━━━━━━━━━━[0m [1m1s[0m 0us/step
+[1m1818624/9406464[0m [32m━━━[0m[37m━━━━━━━━━━━━━━━━━[0m [1m1s[0m 0us/step
+[1m2424832/9406464[0m [32m━━━━━[0m[37m━━━━━━━━━━━━━━━[0m [1m0s[0m 0us/step
+[1m3031040/9406464[0m [32m━━━━━━[0m[37m━━━━━━━━━━━━━━[0m [1m0s[0m 0us/step
+[1m3637248/9406464[0m [32m━━━━━━━[0m[37m━━━━━━━━━━━━━[0m [1m0s[0m 0us/step
+[1m4128768/9406464[0m [32m━━━━━━━━[0m[37m━━━━━━━━━━━━[0m [1m0s[0m 0us/step
+[1m4800512/9406464[0m [32m━━━━━━━━━━[0m[37m━━━━━━━━━━[0m [1m0s[0m 0us/step
+[1m5423104/9406464[0m [32m━━━━━━━━━━━[0m[37m━━━━━━━━━[0m [1m0s[0m 0us/step
+[1m6012928/9406464[0m [32m━━━━━━━━━━━━[0m[37m━━━━━━━━[0m [1m0s[0m 0us/step
+[1m6602752/9406464[0m [32m━━━━━━━━━━━━━━[0m[37m━━━━━━[0m [1m0s[0m 0us/step
+[1m7208960/9406464[0m [32m━━━━━━━━━━━━━━━[0m[37m━━━━━[0m [1m0s[0m 0us/step
+[1m7766016/9406464[0m [32m━━━━━━━━━━━━━━━━[0m[37m━━━━[0m [1m0s[0m 0us/step
+[1m8372224/9406464[0m [32m━━━━━━━━━━━━━━━━━[0m[37m━━━[0m [1m0s[0m 0us/step
+[1m8962048/9406464[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 0us/step
+[1m9406464/9406464[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m1s[0m 0us/step
+Epoch 1/3
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 1: val macro-F1 0.0411 | val top-1 0.0805
+384/384 - 698s - 2s/step - accuracy: 0.0851 - loss: 4.5410 - val_macro_f1: 0.0411 - val_top1: 0.0805
+Epoch 2/3
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 2: val macro-F1 0.1767 | val top-1 0.2468
+384/384 - 483s - 1s/step - accuracy: 0.2653 - loss: 3.4499 - val_macro_f1: 0.1767 - val_top1: 0.2468
+Epoch 3/3
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 3: val macro-F1 0.1907 | val top-1 0.2597
+384/384 - 429s - 1s/step - accuracy: 0.3854 - loss: 2.9151 - val_macro_f1: 0.1907 - val_top1: 0.2597
+Epoch 4/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 4: val macro-F1 0.5185 | val top-1 0.5922
+384/384 - 973s - 3s/step - accuracy: 0.4763 - loss: 2.5979 - val_macro_f1: 0.5185 - val_top1: 0.5922
+Epoch 5/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 5: val macro-F1 0.6076 | val top-1 0.6987
+384/384 - 932s - 2s/step - accuracy: 0.7448 - loss: 1.7962 - val_macro_f1: 0.6076 - val_top1: 0.6987
+Epoch 6/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 6: val macro-F1 0.6973 | val top-1 0.7818
+384/384 - 924s - 2s/step - accuracy: 0.8523 - loss: 1.5020 - val_macro_f1: 0.6973 - val_top1: 0.7818
+Epoch 7/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 7: val macro-F1 0.6787 | val top-1 0.7896
+384/384 - 979s - 3s/step - accuracy: 0.9045 - loss: 1.3465 - val_macro_f1: 0.6787 - val_top1: 0.7896
+Epoch 8/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 8: val macro-F1 0.7358 | val top-1 0.8364
+384/384 - 923s - 2s/step - accuracy: 0.9373 - loss: 1.2255 - val_macro_f1: 0.7358 - val_top1: 0.8364
+Epoch 9/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 9: val macro-F1 0.7324 | val top-1 0.8364
+384/384 - 922s - 2s/step - accuracy: 0.9516 - loss: 1.1747 - val_macro_f1: 0.7324 - val_top1: 0.8364
+Epoch 10/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 10: val macro-F1 0.7539 | val top-1 0.8338
+384/384 - 919s - 2s/step - accuracy: 0.9698 - loss: 1.1200 - val_macro_f1: 0.7539 - val_top1: 0.8338
+Epoch 11/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 11: val macro-F1 0.7255 | val top-1 0.8364
+384/384 - 922s - 2s/step - accuracy: 0.9779 - loss: 1.0547 - val_macro_f1: 0.7255 - val_top1: 0.8364
+Epoch 12/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 12: val macro-F1 0.7574 | val top-1 0.8545
+384/384 - 923s - 2s/step - accuracy: 0.9779 - loss: 1.0501 - val_macro_f1: 0.7574 - val_top1: 0.8545
+Epoch 13/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 13: val macro-F1 0.7998 | val top-1 0.8857
+384/384 - 924s - 2s/step - accuracy: 0.9851 - loss: 1.0085 - val_macro_f1: 0.7998 - val_top1: 0.8857
+Epoch 14/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 14: val macro-F1 0.7983 | val top-1 0.8935
+384/384 - 924s - 2s/step - accuracy: 0.9831 - loss: 0.9941 - val_macro_f1: 0.7983 - val_top1: 0.8935
+Epoch 15/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 15: val macro-F1 0.7983 | val top-1 0.8987
+384/384 - 922s - 2s/step - accuracy: 0.9860 - loss: 0.9773 - val_macro_f1: 0.7983 - val_top1: 0.8987
+Epoch 16/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 16: val macro-F1 0.8107 | val top-1 0.9013
+384/384 - 921s - 2s/step - accuracy: 0.9896 - loss: 0.9553 - val_macro_f1: 0.8107 - val_top1: 0.9013
+Epoch 17/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 17: val macro-F1 0.7586 | val top-1 0.8727
+384/384 - 922s - 2s/step - accuracy: 0.9906 - loss: 0.9473 - val_macro_f1: 0.7586 - val_top1: 0.8727
+Epoch 18/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 18: val macro-F1 0.7968 | val top-1 0.8909
+384/384 - 921s - 2s/step - accuracy: 0.9916 - loss: 0.9303 - val_macro_f1: 0.7968 - val_top1: 0.8909
+Epoch 19/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 19: val macro-F1 0.7920 | val top-1 0.8935
+384/384 - 920s - 2s/step - accuracy: 0.9951 - loss: 0.9181 - val_macro_f1: 0.7920 - val_top1: 0.8935
+Epoch 20/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 20: val macro-F1 0.7912 | val top-1 0.8883
+384/384 - 919s - 2s/step - accuracy: 0.9964 - loss: 0.9042 - val_macro_f1: 0.7912 - val_top1: 0.8883
+Epoch 21/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 21: val macro-F1 0.8067 | val top-1 0.8909
+384/384 - 917s - 2s/step - accuracy: 0.9958 - loss: 0.8928 - val_macro_f1: 0.8067 - val_top1: 0.8909
+Epoch 22/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 22: val macro-F1 0.8039 | val top-1 0.8961
+384/384 - 918s - 2s/step - accuracy: 0.9948 - loss: 0.8920 - val_macro_f1: 0.8039 - val_top1: 0.8961
+Epoch 23/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 23: val macro-F1 0.8044 | val top-1 0.9039
+384/384 - 920s - 2s/step - accuracy: 0.9958 - loss: 0.8870 - val_macro_f1: 0.8044 - val_top1: 0.9039
+Epoch 24/33
+c:\Users\ADMIN\AppData\Local\Programs\Python\Python310\lib\site-packages\keras\src\trainers\epoch_iterator.py:164: UserWarning: Your input ran out of data; interrupting training. Make sure that your dataset or generator can generate at least `steps_per_epoch * epochs` batches. You may need to use the `.repeat()` function when building your dataset.
+  self._interrupted_warning()
+  epoch 24: val macro-F1 0.8074 | val top-1 0.9039
+384/384 - 921s - 2s/step - accuracy: 0.9974 - loss: 0.8723 - val_macro_f1: 0.8074 - val_top1: 0.9039
+{
+  "val": {
+    "top1": 0.9012987012987013,
+    "macro_f1": 0.8106630869130869,
+    "macro_precision": 0.8143611111111112,
+    "macro_recall": 0.825595238095238
+  },
+  "test": {
+    "top1": 0.9356435643564357,
+    "macro_f1": 0.8372022714127977,
+    "macro_precision": 0.8355465367965368,
+    "macro_recall": 0.8495238095238095
+  },
+  "model_ms_per_clip": 136.61999997566454,
+  "device": "CPU"
+}

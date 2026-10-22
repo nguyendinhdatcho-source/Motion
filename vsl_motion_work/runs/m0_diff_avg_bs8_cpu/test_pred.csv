@@ -1,0 +1,405 @@
+path,pred
+test\An ủi\216739.mp4,0
+test\An ủi\329258.mp4,0
+test\An ủi\770487.mp4,0
+test\Ban ngày\112038.mp4,4
+test\Ban ngày\503457.mp4,4
+test\Ban đêm\379786.mp4,83
+test\Biết\526156.mp4,12
+test\Biết\542374.mp4,12
+test\Biết\662336.mp4,12
+test\Biết\662336_1.mp4,12
+test\Biết\662336_2.mp4,12
+test\Biết\662336_3.mp4,12
+test\Biết\890170.mp4,12
+test\Biếu tặng\707314.mp4,13
+test\Biếu tặng\992697.mp4,13
+test\Biếu tặng\992697_1.mp4,13
+test\Biếu tặng\992697_2.mp4,13
+test\Biếu tặng\992697_3.mp4,13
+test\Bàn tay\407757.mp4,83
+test\Băn khoăn\189814.mp4,7
+test\Băn khoăn\260263.mp4,7
+test\Băn khoăn\260263_1.mp4,7
+test\Băn khoăn\351083.mp4,7
+test\Băn khoăn\624902.mp4,7
+test\Băn khoăn\728038.mp4,7
+test\Bạn thân\234628.mp4,8
+test\Bạn thân\234628_1.mp4,8
+test\Bế mạc\322086.mp4,9
+test\Bế mạc\330914.mp4,9
+test\Bế mạc\335612.mp4,9
+test\Bế mạc\573417.mp4,9
+test\Bệnh nhân\761759.mp4,35
+test\Bệnh viện\198907.mp4,11
+test\Bệnh viện\349565.mp4,11
+test\Bệnh viện\551989.mp4,11
+test\Bệnh viện\864491.mp4,55
+test\Bệnh viện\946721.mp4,11
+test\Bộ y tế\141672.mp4,14
+test\Bộ y tế\346629.mp4,14
+test\Chiều\181247.mp4,25
+test\Chiều\387936.mp4,25
+test\Chiều\571932.mp4,25
+test\Chiều\578634.mp4,25
+test\Chiều\578634_1.mp4,25
+test\Chiều\578634_2.mp4,25
+test\Cho\260227.mp4,26
+test\Cho\260227_1.mp4,26
+test\Cho\260227_2.mp4,26
+test\Cho\260227_3.mp4,26
+test\Cho\446954.mp4,26
+test\Chào\309267.mp4,20
+test\Chào\333752.mp4,20
+test\Chào\466643.mp4,20
+test\Chân\367095.mp4,21
+test\Chân\367095_1.mp4,21
+test\Chân\429164.mp4,21
+test\Chân\708792.mp4,21
+test\Chân\795612.mp4,21
+test\Chân\945687.mp4,21
+test\Chúng ta\672661.mp4,27
+test\Chúng ta\672661_1.mp4,27
+test\Chạy\324082.mp4,23
+test\Chạy\400850.mp4,23
+test\Chạy\400850_1.mp4,23
+test\Chạy\400850_2.mp4,23
+test\Chạy\696750.mp4,23
+test\Chạy\736130.mp4,23
+test\Chạy\974224.mp4,23
+test\Chấp nhận\854717.mp4,22
+test\Chậm lại\105814.mp4,24
+test\Chậm lại\152657.mp4,20
+test\Chậm lại\346277.mp4,24
+test\Chậm lại\346277_1.mp4,24
+test\Chậm lại\346277_2.mp4,24
+test\Chậm lại\346277_3.mp4,24
+test\Chậm lại\361303.mp4,20
+test\Con gấu\273061.mp4,28
+test\Con gấu\386193.mp4,28
+test\Con gấu\497519.mp4,28
+test\Con gấu\549433.mp4,28
+test\Con gấu\691807.mp4,28
+test\Con gấu\936912.mp4,28
+test\Cá\237235.mp4,15
+test\Cá\265409.mp4,15
+test\Cá\429445.mp4,15
+test\Cá\429445_1.mp4,15
+test\Cá\559469.mp4,15
+test\Cá\663750.mp4,15
+test\Cách ly\785743.mp4,13
+test\Cám dỗ\146228.mp4,17
+test\Cám dỗ\221035.mp4,17
+test\Cám dỗ\237174.mp4,17
+test\Cám dỗ\363319.mp4,42
+test\Cám dỗ\994343.mp4,17
+test\Cám dỗ\994343_1.mp4,17
+test\Cám dỗ\994343_2.mp4,17
+test\Có thể\171951.mp4,89
+test\Có thể\364525.mp4,29
+test\Cơ thể\783414.mp4,21
+test\Cảm ơn\233636.mp4,19
+test\Cảm ơn\266931.mp4,19
+test\Cảm ơn\938742.mp4,19
+test\Cảm ơn\950132.mp4,19
+test\Cảm ơn\950132_1.mp4,19
+test\Cảm ơn\975136.mp4,19
+test\Cần\672092.mp4,18
+test\Cứu\486814.mp4,31
+test\Cứu\486814_1.mp4,31
+test\Cứu\486814_2.mp4,31
+test\Cứu\486814_3.mp4,31
+test\Cứu\691364.mp4,31
+test\Dạy dỗ\488571.mp4,32
+test\Dạy dỗ\488571_1.mp4,32
+test\Dạy dỗ\488571_2.mp4,32
+test\Dạy dỗ\488571_3.mp4,32
+test\Dễ\556732.mp4,33
+test\Dễ\869440.mp4,33
+test\Dễ\869440_1.mp4,33
+test\Dễ\869440_2.mp4,33
+test\Dễ\869440_3.mp4,33
+test\Ghét\587282.mp4,34
+test\Ghét\697530.mp4,34
+test\Ghét\739979.mp4,34
+test\Giúp\389688.mp4,35
+test\Giúp\846420.mp4,35
+test\Giúp\846420_1.mp4,35
+test\Giúp\846420_2.mp4,35
+test\Giúp\846420_3.mp4,35
+test\Ho\288158.mp4,37
+test\Hy sinh\185131.mp4,41
+test\Hy sinh\351516.mp4,41
+test\Hy sinh\377501.mp4,41
+test\Hy sinh\396451.mp4,41
+test\Hy sinh\837135.mp4,41
+test\Hâm mộ\226516.mp4,36
+test\Hâm mộ\446859.mp4,36
+test\Hâm mộ\661894.mp4,36
+test\Hâm mộ\661894_1.mp4,36
+test\Hâm mộ\823688.mp4,36
+test\Hôm nay\232413.mp4,29
+test\Hôm nay\614723.mp4,38
+test\Hôm nay\831295.mp4,29
+test\Họ\690180.mp4,39
+test\Họ\690180_1.mp4,39
+test\Họ\690180_2.mp4,39
+test\Họ\690180_3.mp4,39
+test\Họ\901577.mp4,39
+test\Học sinh\572398.mp4,40
+test\Khai báo\121753.mp4,43
+test\Khai báo\141797.mp4,43
+test\Khai báo\617781.mp4,43
+test\Khai báo\704238.mp4,43
+test\Khai báo\723948.mp4,43
+test\Khu cách ly\752878.mp4,46
+test\Khóc\209680.mp4,45
+test\Khóc\528184.mp4,45
+test\Khóc\528184_1.mp4,45
+test\Khóc\528184_2.mp4,45
+test\Khóc\528184_3.mp4,45
+test\Khóc\639593.mp4,2
+test\Khóc\802685.mp4,45
+test\Khẩu trang\563711.mp4,44
+test\Kết hôn\273982.mp4,42
+test\Kết hôn\942956.mp4,42
+test\Kết hôn\966785.mp4,42
+test\Lo lắng\595158.mp4,32
+test\Lây bệnh\527809.mp4,47
+test\Lây bệnh\527809_1.mp4,47
+test\Lây bệnh\527809_2.mp4,47
+test\Lây bệnh\527809_3.mp4,47
+test\Lây bệnh\679077.mp4,47
+test\Mua\433632.mp4,50
+test\Mua\433632_1.mp4,50
+test\Mua\433632_2.mp4,50
+test\Mua\433632_3.mp4,50
+test\Mời vào\456385.mp4,49
+test\Mời vào\495533.mp4,49
+test\Mời vào\495533_1.mp4,49
+test\Mời vào\495533_2.mp4,49
+test\Mời vào\495533_3.mp4,49
+test\Mời vào\632401.mp4,49
+test\Nghe\171744.mp4,52
+test\Nghe\414012.mp4,52
+test\Nghe\693418.mp4,52
+test\Nghe\816318.mp4,52
+test\Nghe\816318_1.mp4,52
+test\Nghe\816318_2.mp4,52
+test\Nghe\883041.mp4,52
+test\Nghỉ ngơi\108491.mp4,53
+test\Nghỉ ngơi\108491_1.mp4,53
+test\Nghỉ ngơi\108491_2.mp4,53
+test\Nghỉ ngơi\108491_3.mp4,53
+test\Nghỉ ngơi\769975.mp4,53
+test\Nghỉ ngơi\790203.mp4,53
+test\Nghỉ ngơi\970357.mp4,53
+test\Ngón tay\735863.mp4,33
+test\Nhà\299367.mp4,55
+test\Nhà\299367_1.mp4,55
+test\Nhà\299367_2.mp4,55
+test\Nhà\535686.mp4,55
+test\Nhà\855948.mp4,55
+test\Nhà\855948_1.mp4,55
+test\Nhà\855948_2.mp4,55
+test\Nhìn\213609.mp4,57
+test\Nhìn\229592.mp4,57
+test\Nhìn\489518.mp4,57
+test\Nhìn\576877.mp4,57
+test\Nhìn\885395.mp4,57
+test\Nhìn\890785.mp4,57
+test\Nhầm\964749.mp4,56
+test\Nhớ\166287.mp4,58
+test\Nhớ\575679.mp4,58
+test\Nhớ\575679_1.mp4,58
+test\Nhớ\575679_2.mp4,58
+test\Nhớ\688678.mp4,58
+test\Nhớ\861894.mp4,58
+test\Nói\204180.mp4,59
+test\Nói\476096.mp4,59
+test\Nói\485178.mp4,59
+test\Nói xấu\102973.mp4,60
+test\Nói xấu\282973.mp4,60
+test\Nói xấu\282973_1.mp4,60
+test\Nói xấu\317220.mp4,60
+test\Nói xấu\714867.mp4,60
+test\Nói xấu\726152.mp4,60
+test\Nói xấu\770556.mp4,60
+test\Nôn ói\145471.mp4,61
+test\Nôn ói\570050.mp4,61
+test\Nôn ói\638169.mp4,61
+test\Nôn ói\651640.mp4,61
+test\Nôn ói\921273.mp4,61
+test\Nặng\448121.mp4,51
+test\Nặng\448121_1.mp4,51
+test\Nặng\448121_2.mp4,51
+test\Nặng\448121_3.mp4,51
+test\Nặng\718849.mp4,51
+test\Phía sau\401601.mp4,64
+test\Phía sau\470774.mp4,64
+test\Phía sau\605612.mp4,64
+test\Phía sau\705991.mp4,64
+test\Phía sau\788637.mp4,72
+test\Phía sau\797660.mp4,64
+test\Phía sau\802559.mp4,64
+test\Phạt\782535.mp4,63
+test\Phạt\994217.mp4,63
+test\Phạt\994217_1.mp4,63
+test\Phạt\994217_2.mp4,63
+test\Phỏng vấn\827157.mp4,65
+test\Phỏng vấn\946432.mp4,65
+test\Phỏng vấn\946432_1.mp4,65
+test\Phỏng vấn\946432_2.mp4,65
+test\Phỏng vấn\946432_3.mp4,65
+test\Phục hồi\290217.mp4,66
+test\Rau\152179.mp4,67
+test\Rau\152179_1.mp4,67
+test\Rau\152179_2.mp4,67
+test\Rau\152179_3.mp4,67
+test\Rau\325583.mp4,67
+test\Rau\520252.mp4,67
+test\Rau\544611.mp4,67
+test\Rẽ phải\157443.mp4,68
+test\Rẽ phải\331230.mp4,68
+test\Rẽ trái\119651.mp4,69
+test\Rẽ trái\175576.mp4,69
+test\Rẽ trái\181644.mp4,69
+test\Rẽ trái\181644_1.mp4,69
+test\Rẽ trái\181644_2.mp4,69
+test\Rẽ trái\498676.mp4,69
+test\Rẽ trái\800499.mp4,69
+test\San sẻ\280222.mp4,70
+test\San sẻ\519902.mp4,70
+test\San sẻ\748151.mp4,70
+test\San sẻ\913934.mp4,70
+test\San sẻ\940247.mp4,70
+test\Sốt\466346.mp4,12
+test\Sử dụng\171603.mp4,72
+test\Sử dụng\179013.mp4,72
+test\Sử dụng\438908.mp4,72
+test\Sử dụng\814220.mp4,72
+test\Sử dụng\814220_1.mp4,72
+test\Sử dụng\897143.mp4,72
+test\Thích\559022.mp4,92
+test\Thăm\188425.mp4,75
+test\Thăm\950360.mp4,75
+test\Thương\266457.mp4,43
+test\Thất lạc\503159.mp4,74
+test\Thất lạc\775981.mp4,74
+test\Thất lạc\775981_1.mp4,74
+test\Thức dậy\244247.mp4,79
+test\Thức dậy\244247_1.mp4,79
+test\Thức dậy\244247_2.mp4,79
+test\Thức dậy\244247_3.mp4,79
+test\Thức dậy\301332.mp4,79
+test\Thức dậy\301332_1.mp4,79
+test\Thức dậy\665990.mp4,79
+test\Thức ăn\466813.mp4,78
+test\Thức ăn\726928.mp4,78
+test\Thức ăn\927564.mp4,78
+test\Thức ăn\927564_1.mp4,78
+test\Thức ăn\927564_2.mp4,78
+test\Thức ăn\927564_3.mp4,78
+test\Trưa\127965.mp4,82
+test\Trưa\155843.mp4,82
+test\Trưa\900185.mp4,82
+test\Trưa\986982.mp4,82
+test\Trưa\986982_1.mp4,82
+test\Trưa\986982_2.mp4,82
+test\Trường học\595404.mp4,83
+test\Trường học\595404_1.mp4,83
+test\Trường học\595404_2.mp4,83
+test\Trường học\595404_3.mp4,83
+test\Trường học\725726.mp4,83
+test\Trường học\725726_1.mp4,83
+test\Trường học\725726_2.mp4,83
+test\Trường học\725726_3.mp4,83
+test\Tôi\145814.mp4,94
+test\Tôi\261745.mp4,80
+test\Tôi\289630.mp4,80
+test\Tôi\303440.mp4,80
+test\Tôi\530816.mp4,52
+test\Tập luyện\425486.mp4,73
+test\Tối\561999.mp4,81
+test\Tối\627335.mp4,81
+test\Tối\906814.mp4,81
+test\Uống\296412.mp4,84
+test\Uống\296412_1.mp4,84
+test\Uống\296412_2.mp4,84
+test\Virus\365971.mp4,87
+test\Vâng lời\121322.mp4,49
+test\Xa\239890.mp4,88
+test\Xa\239890_1.mp4,88
+test\Xa\239890_2.mp4,88
+test\Xa\239890_3.mp4,88
+test\Xa\311383.mp4,88
+test\Xa\950916.mp4,88
+test\Xe máy\430926.mp4,98
+test\Xe đạp\150126.mp4,90
+test\Xe đạp\778324.mp4,90
+test\Xin lỗi\455505.mp4,91
+test\Xin lỗi\505426.mp4,91
+test\Xin phép\183958.mp4,92
+test\Xin phép\546815.mp4,92
+test\Xin phép\567576.mp4,92
+test\Xin phép\644500.mp4,92
+test\Xuất viện\136489.mp4,93
+test\Xuất viện\160144.mp4,93
+test\Xuất viện\989894.mp4,93
+test\Xuất viện\989894_1.mp4,93
+test\Xuất viện\989894_2.mp4,93
+test\Xúc động\127172.mp4,94
+test\Xúc động\127172_1.mp4,94
+test\Xúc động\127172_2.mp4,94
+test\Xúc động\324993.mp4,94
+test\Xúc động\374492.mp4,94
+test\Xúc động\741599.mp4,94
+test\Áp dụng\452944.mp4,1
+test\Áp dụng\479201.mp4,1
+test\Áp dụng\479201_1.mp4,1
+test\Áp dụng\498382.mp4,1
+test\Áp dụng\498382_1.mp4,1
+test\Áp dụng\498382_2.mp4,1
+test\Áp dụng\498382_3.mp4,1
+test\Ô tô\168872.mp4,62
+test\Ô tô\213206.mp4,62
+test\Ô tô\440981.mp4,90
+test\Ô tô\656329.mp4,62
+test\Ô tô\656329_1.mp4,62
+test\Ăn\205907.mp4,2
+test\Ăn\330283.mp4,50
+test\Ăn\379946.mp4,2
+test\Ăn\482554.mp4,2
+test\Ăn\584714.mp4,2
+test\Ăn\684004.mp4,2
+test\Ăn mừng\249811.mp4,3
+test\Ăn mừng\329974.mp4,3
+test\Ăn mừng\514850.mp4,3
+test\Ăn mừng\881177.mp4,3
+test\Ăn mừng\881177_1.mp4,3
+test\Ăn mừng\881177_2.mp4,3
+test\Đi\185168.mp4,98
+test\Đi\462831.mp4,98
+test\Đi\462831_1.mp4,98
+test\Đi\462831_2.mp4,98
+test\Đi\462831_3.mp4,98
+test\Đi\983456.mp4,98
+test\Đâu\464301.mp4,95
+test\Đâu\464301_1.mp4,95
+test\Đâu\464301_2.mp4,95
+test\Đâu\464301_3.mp4,95
+test\Đâu\930541.mp4,95
+test\Đầu\234568.mp4,96
+test\Đầu\234568_1.mp4,96
+test\Đầu\234568_2.mp4,96
+test\Đầu\234568_3.mp4,96
+test\Đầu\529322.mp4,96
+test\Đầu\906527.mp4,96
+test\Đẹp\553633.mp4,97
+test\Đẹp\643269.mp4,97
+test\Đồng ý\575575.mp4,99
+test\Đồng ý\575575_1.mp4,99
+test\Đồng ý\575575_2.mp4,99
+test\Đồng ý\575575_3.mp4,99
+test\Đồng ý\770030.mp4,83
+test\Ủng hộ\670511.mp4,85
